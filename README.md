@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Komal Gupta and im a student doing my 2nd year in Computer Science and Engineering at B.M.S College of Engineering in Bangalore. I like coding and building helpful projects for people. Im currently learning on sharpening my skills in full stack technology. 
+My name is Komal Gupta and I'm a student doing my 2nd year in Computer Science and Engineering at B.M.S College of Engineering in Bangalore. I like coding and building helpful projects for people. Im currently learning on sharpening my skills in full stack technology. 
 <!--
 **Komal-G22/Komal-G22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
